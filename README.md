@@ -49,7 +49,8 @@ Some of Screenshots:
 
 admin side screenshots:
 ![admin](https://user-images.githubusercontent.com/60824791/156158004-c6df99fe-ae2c-44be-a8f4-2455969d958d.jpg)
-![computerbrands](https://user-images.githubusercontent.com/60824791/156158021-d7487ce9-6331-42d7-9abf-34ac2856796d.jpg)![computerspecification](https://user-images.githubusercontent.com/60824791/156158034-fc93f629-4587-4e46-aedc-0226551f418a.jpg)
+![computerbrands](https://user-images.githubusercontent.com/60824791/156158021-d7487ce9-6331-42d7-9abf-34ac2856796d.jpg)
+![computerspecification](https://user-images.githubusercontent.com/60824791/156158034-fc93f629-4587-4e46-aedc-0226551f418a.jpg)
 ![Orders](https://user-images.githubusercontent.com/60824791/156158049-cf7e5792-11aa-4d12-aea8-78dc0836b996.jpg)
 
 
