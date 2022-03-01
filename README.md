@@ -38,3 +38,6 @@ Run the server:
 
 
 python manage.py runserver
+
+
+![home](https://user-images.githubusercontent.com/60824791/156157097-d16d2eaa-c96a-47c4-a7ee-ec369482e876.jpg)
