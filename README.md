@@ -2,6 +2,8 @@
 Computer Hub
 Developed by: Namita Chhantyal
 
+#django #python
+
 ######This is computer hub website that displays the computer brands and its specifications.
 Admin add the computer brands and its specification from admin panel
 
