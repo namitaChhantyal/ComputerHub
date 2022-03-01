@@ -40,4 +40,17 @@ Run the server:
 python manage.py runserver
 
 
-![home](https://user-images.githubusercontent.com/60824791/156157097-d16d2eaa-c96a-47c4-a7ee-ec369482e876.jpg)
+Some of Screenshots:
+![home](https://user-images.githubusercontent.com/60824791/15![details](https://user-images.githubusercontent.com/60824791/156157878-587f75b0-1fc2-4b03-bce8-037abb99ff9b.jpg)
+6157097-d16d2eaa-c96a-47c4-a7ee-ec369482e876.jpg)
+![Order](https://user-images.githubusercontent.com/60824791/156158072-b640f69e-a35c-4b61-af93-a0b07f86e7f0.jpg)
+
+
+
+admin side screenshots:
+![admin](https://user-images.githubusercontent.com/60824791/156158004-c6df99fe-ae2c-44be-a8f4-2455969d958d.jpg)
+![computerbrands](https://user-images.githubusercontent.com/60824791/156158021-d7487ce9-6331-42d7-9abf-34ac2856796d.jpg)![computerspecification](https://user-images.githubusercontent.com/60824791/156158034-fc93f629-4587-4e46-aedc-0226551f418a.jpg)
+![Orders](https://user-images.githubusercontent.com/60824791/156158049-cf7e5792-11aa-4d12-aea8-78dc0836b996.jpg)
+
+
+
