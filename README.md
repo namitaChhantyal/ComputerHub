@@ -41,9 +41,9 @@ python manage.py runserver
 
 
 Some of Screenshots:
-![home](https://user-images.githubusercontent.com/60824791/15![details](https://user-images.githubusercontent.com/60824791/156157878-587f75b0-1fc2-4b03-bce8-037abb99ff9b.jpg)
-6157097-d16d2eaa-c96a-47c4-a7ee-ec369482e876.jpg)
-![Order](https://user-images.githubusercontent.com/60824791/156158072-b640f69e-a35c-4b61-af93-a0b07f86e7f0.jpg)
+![home](https://user-images.githubusercontent.com/60824791/156158222-dc6a24b9-e380-452d-af6f-519d2588dc67.jpg)
+
+![details](https://user-images.githubusercontent.com/60824791/156158253-32e15206-7ee5-40e8-8e43-832181905ebf.jpg)
 
 
 
