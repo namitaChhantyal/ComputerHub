@@ -6,6 +6,8 @@ Developed by: Namita Chhantyal
 Admin add the computer brands and its specification from admin panel
 
 if user.is_superuser :
+
+
 superuser can easily add the details of computer brand and it's specification from the admin page.
 superuser can also delete the computers from the database.
 if user.is not superuser:
