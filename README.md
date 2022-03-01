@@ -27,7 +27,11 @@ Migrations:
 
 
 pip install pillow
+
+
 python manage.py migrate
+
+
 python manage.py makemigrations
 
 Run the server:
