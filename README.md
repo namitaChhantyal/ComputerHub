@@ -19,12 +19,18 @@ Simply clone the project from Github and follow the procedure
 Install all the packages used command from console
 
 create Superadminr:
+
+
 python manage.py createsuperuser //set username, email and password for superuser
 
 Migrations:
+
+
 pip install pillow
 python manage.py migrate
 python manage.py makemigrations
 
 Run the server:
+
+
 python manage.py runserver
